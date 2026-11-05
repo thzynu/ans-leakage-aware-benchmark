@@ -1,0 +1,20 @@
+S2: windows baseline=223 stress=118 amusement=67
+S3: windows baseline=223 stress=123 amusement=70
+S4: windows baseline=226 stress=122 amusement=69
+S5: windows baseline=234 stress=124 amusement=69
+S6: windows baseline=231 stress=125 amusement=69
+S7: windows baseline=232 stress=123 amusement=69
+S8: windows baseline=228 stress=129 amusement=68
+S9: windows baseline=231 stress=124 amusement=69
+S10: windows baseline=231 stress=140 amusement=69
+S11: windows baseline=231 stress=131 amusement=68
+S13: windows baseline=231 stress=127 amusement=71
+S14: windows baseline=231 stress=130 amusement=69
+S15: windows baseline=230 stress=132 amusement=69
+S16: windows baseline=231 stress=129 amusement=68
+S17: windows baseline=231 stress=139 amusement=69
+
+X shape (6393, 3, 3500) dtype float32 | size 269 MB
+class counts (0/1/2): [3444, 1916, 1033]
+any NaN: False | X mean/std: -0.076/1.004
+Saved C:\Users\DELL\Downloads\Q1_Scopus\wesad_windows.npz (239 MB)

@@ -1,0 +1,32 @@
+sub_1: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_2: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_3: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_4: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_5: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_6: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_7: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_8: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_9: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_10: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_11: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_12: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_13: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_14: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_15: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_16: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_17: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_18: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_19: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_20: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_21: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_22: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_23: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_24: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_25: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_26: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_27: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_28: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_29: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+sub_30: rows=2451584 windows baseline=93 scary=57 amusing=61 | finite=True
+X (6330, 3, 3500) float32 | classes (0/1/2): [2790, 1710, 1830] | NaN: False | mean/std -0.009/0.950
+Saved C:\Users\DELL\Downloads\Q1_Scopus\case_windows.npz (238 MB)

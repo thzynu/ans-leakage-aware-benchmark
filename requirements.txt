@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+scipy
+PyWavelets
+biosppy
+tsaug
+matplotlib
+seaborn
+tqdm
+tensorflow
+joblib
