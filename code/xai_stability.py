@@ -18,7 +18,7 @@ set_data(dw["X"], dw["y"], dw["sid"], np.unique(dw["sid"]))
 sid, SIDS = State.sid, State.SIDS
 N_WIN, N_STEP, BLK = (16 if SMOKE else 96), 8, 50
 SEEDS, EPOCHS = ((0,) if SMOKE else (0, 1, 2)), (1 if SMOKE else 30)
-RESX = os.path.join(a.out, "xai_smoke.pkl" if SMOKE else "xai_stability.pkl")
+RESX = os.path.join(a.out, "xai_stability_smoke.pkl" if SMOKE else "xai_stability.pkl")
 resx = pickle.load(open(RESX, "rb")) if os.path.exists(RESX) else {}
 
 

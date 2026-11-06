@@ -22,7 +22,7 @@ dw = np.load(os.path.join(a.data, "wesad_windows.npz"))
 set_data(dw["X"], dw["y"], dw["sid"], np.unique(dw["sid"]))
 X, y, sid, SIDS = State.X, State.y, State.sid, State.SIDS
 SIDS_RUN = SIDS[:1] if SMOKE else SIDS
-OUT = os.path.join(a.out, "xai_smoke.pkl" if SMOKE else "xai_results.pkl")
+OUT = os.path.join(a.out, "xai_results_smoke.pkl" if SMOKE else "xai_results.pkl")
 FS_ = 3500 / 30.0
 FRACS = (0.05, 0.1, 0.2, 0.3, 0.5)
 CONDS = ["clean", "gauss0.2", "gauss0.5", "gauss1.0", "wander", "motion", "drop_ecg", "drop_eda", "drop_resp"]
